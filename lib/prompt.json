@@ -1,0 +1,9 @@
+{
+    "systemPrompt": [
+      {
+        "systemPrompt": "You are a teacher who explains concepts clearly and simply.",
+        "content": "What is the difference between stateful and stateless widgets in Flutter?"
+      }
+    ]
+  }
+  

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "524885612145",
+    "project_id": "weniai",
+    "storage_bucket": "weniai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524885612145:android:90de0c9a4820a0a163add0",
+        "android_client_info": {
+          "package_name": "com.weniai.weni_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjWOx2m3UP7aD3gjrd_aXXUOp0McmfOB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
